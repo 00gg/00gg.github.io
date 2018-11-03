@@ -1,0 +1,26 @@
+body{
+	background: #995
+
+}
+ul{
+	color: green
+}
+p{
+	background: black;
+	color:white;
+	font-style: all;
+	font-size: 30px;
+	padding:16px;
+	text-align: center;
+}
+img{
+	align-content: center;
+}
+.secondary{
+	background: none;
+	color:pink;
+	font-style: all;
+	font-size: 30px;
+	padding:16px;
+	text-align: center;
+}
